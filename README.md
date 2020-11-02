@@ -41,5 +41,6 @@ Results:
 | 0.5  | 0.5       | 73.9 |
 | 0.5  | 0.95(s)   | 52.5 |
 | 0.75 | 0.5       | 42.7 |
-Sample Results:
-![alt text](pytorch/resources/Test1.png x450)
+
+## Sample Results:
+![alt text](pytorch/resources/Test1.png =450x)
