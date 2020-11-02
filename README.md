@@ -5,7 +5,7 @@ The below repository explores two different architectures using separate librari
 ## Dependencies
 The repository requires Tensorflow>= 2.3.0 and Torch 1.6+ with torchvision
 ##
-![alt text](pytorch/resources/cluster_visualization.gif
+![alt text](pytorch/resources/cluster_visualization.gif)
 
 ## Approach
 An attempt was made to explore different object detection techniques using a supplied dataset. Initial exploration of the data revealed ~2200 images that were available for training along with ~16700 annotations for two classes: 
